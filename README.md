@@ -1,2 +1,3 @@
 # Ada
-Atividade de criação de um site de HTML,CSS,JAVASCRIPT.
+📑 Um projeto do curso Programaria criação de um site de HTML,CSS,JAVASCRIPT.
+📚 Estudante da Programaria.
