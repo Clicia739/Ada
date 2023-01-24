@@ -10,7 +10,8 @@ Projeto desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git
 - Github
-###Projeto
+
+### Projeto
 Desenvolvi a segunda parte projeto site ADA do curso da PROGRAMARIA.
 
 Acesse o projeto aqui, online!
